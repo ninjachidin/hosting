@@ -1,4 +1,0 @@
-[09-May-2020 21:15:04 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/miboutiq/public_html/chidin/htdocs/Reserva/datos.php on line 10
-[09-May-2020 21:16:04 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/miboutiq/public_html/chidin/htdocs/Reserva/datos.php on line 10
-[09-May-2020 21:19:16 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'miboutiq_chidin'@'localhost' (using password: NO) in /home4/miboutiq/public_html/chidin/htdocs/Reserva/datos.php on line 10
-[09-May-2020 21:20:25 America/Mexico_City] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'miboutiq_chidin'@'localhost' (using password: NO) in /home4/miboutiq/public_html/chidin/htdocs/Reserva/datos.php on line 10
