@@ -1,0 +1,24 @@
+[23-Apr-2020 21:18:00 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'sql304.byethost.com' (110) in /home4/miboutiq/public_html/chidin/htdocs/conexion.php on line 9
+[23-Apr-2020 21:18:00 America/Mexico_City] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/miboutiq/public_html/chidin/htdocs/conexion.php on line 11
+[23-Apr-2020 21:18:00 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 5
+[23-Apr-2020 21:18:00 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 6
+[23-Apr-2020 21:18:00 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 7
+[23-Apr-2020 21:18:00 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 27
+[23-Apr-2020 21:35:24 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'sql304.byethost.com' (110) in /home4/miboutiq/public_html/chidin/htdocs/conexion1.php on line 11
+[23-Apr-2020 21:35:24 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/miboutiq/public_html/chidin/htdocs/conexion1.php on line 13
+[23-Apr-2020 21:35:32 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'sql304.byethost.com' (110) in /home4/miboutiq/public_html/chidin/htdocs/conexion1.php on line 11
+[23-Apr-2020 21:35:32 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home4/miboutiq/public_html/chidin/htdocs/conexion1.php on line 13
+[23-Apr-2020 22:56:30 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'sql304.byethost.com' (110) in /home4/miboutiq/public_html/chidin/htdocs/conexion.php on line 9
+[23-Apr-2020 22:56:30 America/Mexico_City] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/miboutiq/public_html/chidin/htdocs/conexion.php on line 11
+[23-Apr-2020 22:56:30 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 5
+[23-Apr-2020 22:56:30 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 6
+[23-Apr-2020 22:56:30 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 7
+[23-Apr-2020 22:56:30 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 27
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  include(conexionconexion_miboutiq_escuela.php): failed to open stream: No such file or directory in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 2
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  include(conexionconexion_miboutiq_escuela.php): failed to open stream: No such file or directory in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 2
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  include(): Failed opening 'conexionconexion_miboutiq_escuela.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 2
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 5
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 6
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 7
+[23-Apr-2020 22:58:23 America/Mexico_City] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home4/miboutiq/public_html/chidin/htdocs/buscar.php on line 27
+[24-Apr-2020 23:46:49 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/miboutiq/public_html/chidin/htdocs/guardar.php on line 18
