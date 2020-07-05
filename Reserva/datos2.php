@@ -3,7 +3,7 @@
     $usuario = "miboutiq_chidin"; //en ste caso root por ser localhost
     $password = "putoluigi";  //contraseña por si tiene algun servicio de hosting 
     $servidor = "localhost"; //localhost por lo del xampp
-    $basededatos ="miboutiq_reservas"; //nombre de la base de datos
+    $basededatos ="miboutiq_sugerencias"; //nombre de la base de datos
 
 
 

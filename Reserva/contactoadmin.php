@@ -126,7 +126,7 @@
 		<br>	
 
 		<center>
-<button class="btn btn"><a href="admin.php"><font size="4"  face="Showcard Gothic" color="0D6BCE" >Volver</font></a></button>
+<button onclick="location.href='admin.php'"><font size="4"  face="Showcard Gothic" color="0D6BCE" >Volver</font></a></button>
 </center>	  
 
 		
