@@ -90,9 +90,9 @@
 
 				echo "<table border='10'; class='btn btn-primary';>";
 					echo "<tr class='warning'>";
-					    echo "<td><font color='000000' size='5'>nombre<br></font></td>";
-						echo "<td><font color='6D6D71' size='5'>correo<br></font></td>";
-						echo "<td><font color='000000' size='5'>mensaje<br></font></td>";
+					    echo "<td><font color='000000' size='5'>Nombre<br></font></td>";
+						echo "<td><font color='6D6D71' size='5'>Correo<br></font></td>";
+						echo "<td><font color='000000' size='5'>Mensaje<br></font></td>";
 
 
 					echo "</tr>";

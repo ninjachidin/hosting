@@ -73,7 +73,7 @@
 		<div class="caption">
 		
 		<div class="well well-small btn btn-primary"  >
-		<div style="text-align: center;"><h2> Boletos registrados</h2>	</div>
+		<div style="text-align: center;"><h2> Usuarios Registrados</h2>	</div>
 		<hr class="soft"/>
 		<div class="row-fluid">
 		
